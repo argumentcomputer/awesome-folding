@@ -1,6 +1,24 @@
 # Awesome-Folding
 
-A curated list of awesome resources related to zero-knowledge folding schemes.
+A curated list of awesome resources related to zero-knowledge folding schemes. Folding schemes are a revolutionary approach to incrementally verifiable computation (IVC), fundamental to efficient and correct execution of computational steps in Zero-Knowledge Proofs. 
+
+## Table of Contents
+- [Writings (papers, blog posts, etc)](#writings-papers-blog-posts-etc)
+  - [Prequels](#prequels)
+    - [Arithmetization](#arithmetization)
+    - [Spartan](#spartan)
+    - [IVC](#ivc)
+    - [Halo2](#halo2)
+  - [Classic Nova](#classic-nova)
+  - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
+  - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova-/-protostar-:-the-next-generation-(with-high-degree-gates))
+- [Code (software repositories)](#code-(software-repositories))
+  - [Reference implementations](#reference-implementations)
+  - [Teaching / experimental implementations](#teaching-/-experimental-implementations)
+  - [Code Explorations](#code-explorations)
+- [Other resources (podcasts, etc)](#other-resources-(podcasts,-etc))
+- [Applications](#applications)
+
 
 # Writings (papers, blog posts, etc)
 
