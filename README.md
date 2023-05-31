@@ -73,7 +73,7 @@ Code implementations and explorations related to the Nova proof system, includin
 
 - [Nova benchmarks](https://hackmd.io/@oskarth/rJmSaOtZ2)
 - [Nova wishlist and next steps](https://hackmd.io/@oskarth/SJRm4zYbn)
-- [Nova-based ZKVM spec](https://hackmd.io/@E2MdbGO6Qq6Z931Fypap-w/BJbq5Bb8P)
+- [Nova-based ZKVM spec](https://hackmd.io/@CPerezz/ByTmhi6yn)
 - [Origami-benchmarks](https://hackmd.io/vn7hWnjCQXCEpQvPDflL8g)
 
 # Other resources (podcasts, etc)
