@@ -131,6 +131,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
 - *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
 - *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
+- *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
 
 ## Applications
 
@@ -140,3 +141,6 @@ Code implementations and explorations related to the Nova proof system, includin
     - Lurk is a Turing-complete programming language for recursive zk-SNARKs. It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
     - [Youtube account](https://www.youtube.com/@lurklab4264/featured)
     - *Talks*: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
+- [Nova-SHA256](https://github.com/avras/nova-sha256)
+    - This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
+    - The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) library
