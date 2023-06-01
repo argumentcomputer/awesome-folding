@@ -3,9 +3,9 @@ name: Lint Files
 
 on:
   push:
-    branches-ignore: [master, main]
   pull_request:
     branches: [master, main]
+  workflow_dispatch:
 
 ###############
 # Set the Job #
