@@ -22,3 +22,16 @@ jobs:
         with:
           config: ./.markdownlint.json
           args: ./README.md
+
+  lint-markdown-toc:
+    runs-on: ubuntu-latest
+    name: Lint for Table of Contents
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install markdown-toc
+      - run: ./node_modules/.bin/markdown-toc -i README.md
+      - run: git diff --exit-code
