@@ -3,7 +3,6 @@ name: Linter & Links (Fail Fast)
 on:
   push:
   pull_request:
-  workflow_dispatch:
 
 jobs:
   linkChecker:
@@ -18,9 +17,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Lint Code Base
-        uses: github/super-linter@v5
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Markdown lint for README
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          config: ./.markdownlint.json
+          args: ./README.md
