@@ -110,10 +110,10 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ## Teaching / experimental implementations
 
-- https://github.com/arnaucube/nova-study/
-- https://github.com/jules/supernova
-- https://github.com/privacy-scaling-explorations/multifolding-poc
-- https://github.com/thor314/ccs-hack
+- [nova-study](https://github.com/arnaucube/nova-study/): Implementation of Nova using arkworks-rs just forlearning purposes.
+- [supernova](https://github.com/jules/supernova): Experimental implementation of the SuperNova protocol
+- [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc): Experimental implementation of HyperNova
+- [ccs-hack](https://github.com/thor314/ccs-hack): a hack implementation of CCS generic implementation
 
 ## Code Explorations
 
