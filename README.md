@@ -3,6 +3,8 @@
 A curated list of awesome resources related to zero-knowledge folding schemes. Folding schemes are a revolutionary approach to incrementally verifiable computation (IVC), fundamental to efficient and correct execution of computational steps in Zero-Knowledge Proofs. 
 
 ## Table of Contents
+- [Awesome-Folding](#awesome-folding)
+  - [Table of Contents](#table-of-contents)
 - [Writings (papers, blog posts, etc)](#writings-papers-blog-posts-etc)
   - [Prequels](#prequels)
     - [Arithmetization](#arithmetization)
@@ -11,12 +13,12 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
     - [Halo2](#halo2)
   - [Classic Nova](#classic-nova)
   - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
-  - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova-/-protostar-:-the-next-generation-(with-high-degree-gates))
-- [Code (software repositories)](#code-(software-repositories))
+  - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
+- [Code (software repositories)](#code-software-repositories)
   - [Reference implementations](#reference-implementations)
-  - [Teaching / experimental implementations](#teaching-/-experimental-implementations)
+  - [Teaching / experimental implementations](#teaching--experimental-implementations)
   - [Code Explorations](#code-explorations)
-- [Other resources (podcasts, etc)](#other-resources-(podcasts,-etc))
+- [Other resources (podcasts, etc)](#other-resources-podcasts-etc)
 - [Applications](#applications)
 
 
@@ -84,6 +86,8 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 - https://github.com/arnaucube/nova-study/
 - https://github.com/jules/supernova
+- https://github.com/privacy-scaling-explorations/multifolding-poc
+- https://github.com/thor314/ccs-hack
 
 ## Code Explorations
 
@@ -98,6 +102,7 @@ Code implementations and explorations related to the Nova proof system, includin
 
 - *Podcast*: [ZK-Podcast Episode 277: Nova and beyond with Srinath Setty](https://www.youtube.com/watch?v=hRza_k8i16s)
 - *Talk*: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
+- *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
 - *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
 - *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
 
