@@ -1,4 +1,4 @@
-#Awesome-Folding
+# Awesome-Folding
 
 A curated list of awesome resources related to zero-knowledge folding schemes. Folding schemes are a revolutionary approach to incrementally verifiable computation (IVC), fundamental to efficient and correct execution of computational steps in Zero-Knowledge Proofs.
 
