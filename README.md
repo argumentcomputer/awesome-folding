@@ -138,3 +138,5 @@ Code implementations and explorations related to the Nova proof system, includin
     - This repository provides necessary middleware to take generated output of the Circom compiler (R1CS constraints and generated witnesses) and use them with Nova as a prover.
 - [Lurk](https://github.com/lurk-lang/lurk-rs)
     - Lurk is a Turing-complete programming language for recursive zk-SNARKs. It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
+    - [Youtube account](https://www.youtube.com/@lurklab4264/featured)
+    - *Talks*: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
