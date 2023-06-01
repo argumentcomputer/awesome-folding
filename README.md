@@ -9,8 +9,10 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   - [Prequels](#prequels)
     - [Arithmetization](#arithmetization)
     - [Spartan](#spartan)
-    - [IVC](#ivc)
-    - [Halo2](#halo2)
+    - [IVC and PCD](#ivc-and-pcd)
+    - [Halo](#halo)
+  - [Aggregation Schemes](#aggregation-schemes)
+  - [Accumulation Schemes](#accumulation-schemes)
   - [Classic Nova](#classic-nova)
   - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
   - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
@@ -20,7 +22,6 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   - [Code Explorations](#code-explorations)
 - [Other resources (podcasts, etc)](#other-resources-podcasts-etc)
 - [Applications](#applications)
-
 
 # Writings (papers, blog posts, etc)
 
@@ -40,15 +41,38 @@ The final SNARK used in Nova (only using MSMs)
 
 - [Spartan: Efficient and general-purpose zkSNARKs without trusted setup](https://eprint.iacr.org/2019/550)
 
-### IVC
+### IVC and PCD
 
 - [Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency](https://www.cs.purdue.edu/homes/pvaliant/uniqueCS.pdf)
+    - The paper that introduced incrementally-verifiable computation and the notion of recursive composition of proofs.
+- [Proof-Carrying Data and Hearsay Arguments from Signature Cards](https://www.cs.tau.ac.il/~tromer/papers/pcd.pdf)
+    -  The paper that introduced proof-carrying data, a generalization of incrementally-verifiable computation to arbitrary graphs (IVC considers only a chain of computation)
+-  [Recursive composition and bootstrapping for SNARKS and proof-carrying data](http://eprint.iacr.org/2012/095)
+    - This paper provides firm theoretical foundations for PCD and IVC.
+-  [Scalable Zero Knowledge via Cycles of Elliptic Curves](http://eprint.iacr.org/2014/595)
+    - This paper introduces the notion of pairing-friendly cycles of curves, and shows how to use these to construct the first concretely efficient IVC/PCD scheme.
 
-### Halo2
+### Halo
 
 The prototype of the delayed proving approach which Nova puts on steroids.
 
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021)
+- 
+## Aggregation schemes
+
+Aggregation schemes show how to extend the aggregation ideas in Halo to any additively-homomorphic PC scheme, and construct PCD from these.
+
+- [Halo Infinite: Recursive zk-SNARKs from any Additive Polynomial Commitment Scheme](https://eprint.iacr.org/2020/1536)
+    - [Presentation](https://www.youtube.com/watch?v=TydI5xJlhqQ)
+
+## Accumulation schemes
+
+Accumulation schemes are a generalization of both Halo-style aggregation and Nova-style folding schemes that allow analyzing these ideas in a single system. The papers below show how to use efficient accumulation schemes for certain predicates (e.g., polynomial commitments) to construct efficient PCD schemes.
+
+- [Proof-Carrying Data from Accumulation Schemes](https://eprint.iacr.org/2020/499)
+    - [Presentation](https://www.youtube.com/watch?v=UNwlBq1FQ3E)
+- [Proof-Carrying Data without Succinct Arguments](https://eprint.iacr.org/2020/1618)
+    - [Presentation](https://www.youtube.com/watch?v=TRyep--q6jU)
 
 ## Classic Nova
 
@@ -60,6 +84,7 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
     - [Presentation](https://www.youtube.com/watch?v=BiKMCNKwaec)
 - [Sangria: a Folding Scheme for PLONK](https://github.com/geometryresearch/technical_notes/blob/main/sangria_folding_plonk.pdf)
     - [Presentation](https://www.youtube.com/watch?v=D7rQbHpxl7Q)
+
 
 ## Nova Extensions (without high-degree gates)
 
