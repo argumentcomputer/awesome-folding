@@ -1,8 +1,9 @@
-name: Links (Fail Fast)
+name: Linter & Links (Fail Fast)
 
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   linkChecker:
@@ -16,3 +17,10 @@ jobs:
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Lint Code Base
+        uses: github/super-linter@v5
+        env:
+          VALIDATE_ALL_CODEBASE: false
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
