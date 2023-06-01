@@ -1,27 +1,28 @@
-# Awesome-Folding
+#Awesome-Folding
 
-A curated list of awesome resources related to zero-knowledge folding schemes. Folding schemes are a revolutionary approach to incrementally verifiable computation (IVC), fundamental to efficient and correct execution of computational steps in Zero-Knowledge Proofs. 
+A curated list of awesome resources related to zero-knowledge folding schemes. Folding schemes are a revolutionary approach to incrementally verifiable computation (IVC), fundamental to efficient and correct execution of computational steps in Zero-Knowledge Proofs.
 
-## Table of Contents
-- [Awesome-Folding](#awesome-folding)
-  - [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Writings (papers, blog posts, etc)](#writings-papers-blog-posts-etc)
-  - [Prequels](#prequels)
-    - [Arithmetization](#arithmetization)
-    - [Spartan](#spartan)
-    - [IVC and PCD](#ivc-and-pcd)
-    - [Halo](#halo)
-    - [Aggregation Schemes](#aggregation-schemes)
-  - [Accumulation Schemes](#accumulation-schemes)
-  - [Classic Nova](#classic-nova)
-  - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
-  - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
+  * [Prequels](#prequels)
+    + [Arithmetization](#arithmetization)
+    + [Spartan](#spartan)
+    + [IVC and PCD](#ivc-and-pcd)
+    + [Halo](#halo)
+    + [Aggregation schemes](#aggregation-schemes)
+  * [Accumulation schemes](#accumulation-schemes)
+  * [Classic Nova](#classic-nova)
+  * [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
+  * [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
 - [Code (software repositories)](#code-software-repositories)
-  - [Reference implementations](#reference-implementations)
-  - [Teaching / experimental implementations](#teaching--experimental-implementations)
-  - [Code Explorations](#code-explorations)
+  * [Reference implementations](#reference-implementations)
+  * [Teaching / experimental implementations](#teaching--experimental-implementations)
+  * [Code Explorations](#code-explorations)
 - [Other resources (podcasts, etc)](#other-resources-podcasts-etc)
 - [Applications](#applications)
+
+<!-- tocstop -->
 
 # Writings (papers, blog posts, etc)
 
