@@ -11,7 +11,7 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
     - [Spartan](#spartan)
     - [IVC and PCD](#ivc-and-pcd)
     - [Halo](#halo)
-  - [Aggregation Schemes](#aggregation-schemes)
+    - [Aggregation Schemes](#aggregation-schemes)
   - [Accumulation Schemes](#accumulation-schemes)
   - [Classic Nova](#classic-nova)
   - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
@@ -57,8 +57,8 @@ The final SNARK used in Nova (only using MSMs)
 The prototype of the delayed proving approach which Nova puts on steroids.
 
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021)
-- 
-## Aggregation schemes
+ 
+### Aggregation schemes
 
 Aggregation schemes show how to extend the aggregation ideas in Halo to any additively-homomorphic PC scheme, and construct PCD from these.
 
@@ -67,7 +67,8 @@ Aggregation schemes show how to extend the aggregation ideas in Halo to any addi
 
 ## Accumulation schemes
 
-Accumulation schemes are a generalization of both Halo-style aggregation and Nova-style folding schemes that allow analyzing these ideas in a single system. The papers below show how to use efficient accumulation schemes for certain predicates (e.g., polynomial commitments) to construct efficient PCD schemes.
+Accumulation schemes are a generalization of both Halo-style aggregation and Nova-style folding schemes that allow analyzing these ideas in a single system. 
+The papers below show how to use efficient accumulation schemes for certain predicates (e.g., polynomial commitments) to construct efficient PCD schemes.
 
 - [Proof-Carrying Data from Accumulation Schemes](https://eprint.iacr.org/2020/499)
     - [Presentation](https://www.youtube.com/watch?v=UNwlBq1FQ3E)
