@@ -7,10 +7,11 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   - [Prequels](#prequels)
     - [Arithmetization](#arithmetization)
     - [Spartan](#spartan)
-    - [IVC](#ivc)
+    - [IVC and PCD](#ivc-and-pcd)
     - [Halo](#halo)
-  - [Classic Nova](#classic-nova)
+  - [Aggregation Schemes](#aggregation-schemes)
   - [Accumulation Schemes](#accumulation-schemes)
+  - [Classic Nova](#classic-nova)
   - [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
   - [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
 - [Code (software repositories)](#code-software-repositories)
@@ -41,7 +42,13 @@ The final SNARK used in Nova (only using MSMs)
 ### IVC and PCD
 
 - [Incrementally Verifiable Computation or Proofs of Knowledge Imply Time/Space Efficiency](https://www.cs.purdue.edu/homes/pvaliant/uniqueCS.pdf)
+    - The paper that introduced incrementally-verifiable computation and the notion of recursive composition of proofs.
 - [Proof-Carrying Data and Hearsay Arguments from Signature Cards](https://www.cs.tau.ac.il/~tromer/papers/pcd.pdf)
+    -  The paper that introduced proof-carrying data, a generalization of incrementally-verifiable computation to arbitrary graphs (IVC considers only a chain of computation)
+-  [Recursive composition and bootstrapping for SNARKS and proof-carrying data](http://eprint.iacr.org/2012/095)
+    - This paper provides firm theoretical foundations for PCD and IVC.
+-  [Scalable Zero Knowledge via Cycles of Elliptic Curves](http://eprint.iacr.org/2014/595)
+    - This paper introduces the notion of pairing-friendly cycles of curves, and shows how to use these to construct the first concretely efficient IVC/PCD scheme.
 
 ### Halo
 
