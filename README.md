@@ -132,6 +132,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
 - *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
 - *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
+- *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo&list=PLBJMt6zV1c7GeKkR2SUhzx9KSJ9TsEx6n)
 
 ## Applications
 
