@@ -20,6 +20,9 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   * [Teaching / experimental implementations](#teaching--experimental-implementations)
   * [Code Explorations](#code-explorations)
 - [Other resources (podcasts, etc)](#other-resources-podcasts-etc)
+  * [Podcast episodes](#podcast-episodes)
+  * [Talks & Lectures](#talks--lectures)
+  * [Forums](#forums)
 - [Applications](#applications)
 
 <!-- tocstop -->
@@ -126,13 +129,22 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ## Other resources (podcasts, etc)
 
+### Podcast episodes
+
 - *Podcast*: [ZK-Podcast Episode 277: Nova and beyond with Srinath Setty](https://www.youtube.com/watch?v=hRza_k8i16s)
+- *Podcast*: [ZK-Podcast Episode 280: Episode 280: ProtoStar with Benedikt Buenz and Binyi Chen](https://zeroknowledge.fm/280-2/)
+
+### Talks & Lectures
+
 - *Talk*: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
 - *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
-- *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
-- *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
 - *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
 - *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo&list=PLBJMt6zV1c7GeKkR2SUhzx9KSJ9TsEx6n)
+
+### Forums
+
+- *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
+- *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
 
 ## Applications
 
