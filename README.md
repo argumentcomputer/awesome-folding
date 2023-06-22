@@ -138,7 +138,7 @@ Code implementations and explorations related to the Nova proof system, includin
 ### Podcast episodes
 
 - *Podcast*: [ZK-Podcast Episode 277: Nova and beyond with Srinath Setty](https://www.youtube.com/watch?v=hRza_k8i16s)
-- *Podcast*: [ZK-Podcast Episode 280: ProtoStar with Benedikt Buenz and Binyi Chen](https://zeroknowledge.fm/280-2/)
+- *Podcast*: [ZK-Podcast Episode 280: ProtoStar with Benedikt Bünz and Binyi Chen](https://zeroknowledge.fm/280-2/)
 - *Podcast*: [Zk-Podcast Episode 281: Exploring Lurk: a new Language for Recursive zk-SNARKs with Chhi'mèd Künzang and François Garillot](https://zeroknowledge.fm/281-2/)
 
 ### Talks & Lectures
