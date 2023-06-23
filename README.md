@@ -95,7 +95,6 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
     convincing proof of $2^{75}$ rounds of the Minroot VDF in 1.46 seconds. A new optimized and secure
     system is introduced together with a formal security proof.
 
-
 ### Nova Extensions (without high-degree gates)
 
 Extensions to the Nova proof system that explore PCS in terms of linear codes, folding, and other concepts.
