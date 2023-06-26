@@ -145,7 +145,8 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
 - *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
 - *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
-- *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo&list=PLBJMt6zV1c7GeKkR2SUhzx9KSJ9TsEx6n)
+- *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo)
+- *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
 
 ### Forums
 
