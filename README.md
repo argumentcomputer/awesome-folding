@@ -22,6 +22,7 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
 - [Other resources (podcasts, etc)](#other-resources-podcasts-etc)
   * [Podcast episodes](#podcast-episodes)
   * [Talks & Lectures](#talks--lectures)
+    + [Zuzalu talks](#zuzalu-talks)
   * [Forums](#forums)
 - [Applications](#applications)
 
@@ -147,6 +148,13 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
 - *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo)
 - *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
+
+#### Zuzalu talks
+
+- *Talk*: [Folding Scheme Math Buildding Blocks (Ying Tong)](https://zuzalu.streameth.org/session/152)
+- *Talk*: [SuperNova and Parallelizing Nova (Carlos Perez, Nalin Bardaj)](https://zuzalu.streameth.org/session/169)
+- *Talk*: [Nova Track Ad-Hoc Session: ZK Week Research Projects Discussion (Barry Whitehat, Justin Drake, Nalin Bardaj)](https://zuzalu.streameth.org/session/432)
+- *Talk*: [Ad-Hoc Session on Goblin PLONK + Nova (Zachary Williamson)](https://zuzalu.streameth.org/session/451)
 
 ### Forums
 
