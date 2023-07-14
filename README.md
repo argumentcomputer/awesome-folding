@@ -110,6 +110,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [Customizable constraint systems for succinct arguments](https://eprint.iacr.org/2023/552)
 - [HyperNova: Recursive arguments for customizable constraint systems](https://eprint.iacr.org/2023/573)
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620)
+    - [Presentation](https://www.youtube.com/watch?v=tt00TLFJPpc)
 
 ## Code (software repositories)
 
