@@ -146,13 +146,14 @@ Code implementations and explorations related to the Nova proof system, includin
 
 - *Talk*: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
 - *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
-- *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong)](https://www.youtube.com/watch?v=KSGE6n66W1M)
+- *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong Lai)](https://www.youtube.com/watch?v=KSGE6n66W1M)
 - *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo)
 - *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
+- *Talk*: [ZK Study Club: Protostar with Binyi Chen](https://www.youtube.com/watch?v=wtxVYiZh7zc)
 
 #### Zuzalu talks
 
-- *Talk*: [Folding Scheme Math Buildding Blocks (Ying Tong)](https://zuzalu.streameth.org/session/152)
+- *Talk*: [Folding Scheme Math Buildding Blocks (Ying Tong Lai)](https://zuzalu.streameth.org/session/152)
 - *Talk*: [SuperNova and Parallelizing Nova (Carlos Perez, Nalin Bardaj)](https://zuzalu.streameth.org/session/169)
 - *Talk*: [Nova Track Ad-Hoc Session: ZK Week Research Projects Discussion (Barry Whitehat, Justin Drake, Nalin Bardaj)](https://zuzalu.streameth.org/session/432)
 - *Talk*: [Ad-Hoc Session on Goblin PLONK + Nova (Zachary Williamson)](https://zuzalu.streameth.org/session/451)
