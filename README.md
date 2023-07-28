@@ -129,6 +129,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [supernova](https://github.com/jules/supernova): Experimental implementation of the SuperNova protocol
 - [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc): Experimental implementation of HyperNova
 - [ccs-hack](https://github.com/thor314/ccs-hack): a hack implementation of CCS generic implementation
+- [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
 
 ### Code Explorations
 
