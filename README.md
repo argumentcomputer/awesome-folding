@@ -112,7 +112,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [HyperNova: Recursive arguments for customizable constraint systems](https://eprint.iacr.org/2023/573)
   This paper introduces HyperNova, a recursive argument for proving incremental computations whose steps are expressed with CCS. The prover’s cost at each step is dominated by a single multi-scalar multiplication (MSM) of size equal to the number of variables in the constraint system, which is optimal when using an MSM-based commitment scheme.
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620)
-  We provide a generic, efficient accumulation scheme for any (2k-1)-move special-sound protocol with a verifier that checks l degree-d equations. The accumulation verifier only performs k+2 elliptic curve multiplications and k+d+O(1) field/hash operations. 
+  We provide a generic, efficient accumulation scheme for any (2k-1)-move special-sound protocol with a verifier that checks l degree-d equations. The accumulation verifier only performs k+2 elliptic curve multiplications and k+d+O(1) field/hash operations.
     - [Presentation](https://www.youtube.com/watch?v=tt00TLFJPpc)
 - [ProtoGalaxy: Efficient ProtoStar-style folding of multiple instances](https://eprint.iacr.org/2023/1106)
   Building on ideas from  ProtoStar, we construct a folding scheme where the recursive verifier's "marginal work", beyond linearly combining witness commitments, consists only of a logarithmic number of field operations and a constant number of hashes. Moreover, our folding scheme performs well when *folding multiple instances at one step*.
@@ -129,6 +129,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [supernova](https://github.com/jules/supernova): Experimental implementation of the SuperNova protocol
 - [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc): Experimental implementation of HyperNova
 - [ccs-hack](https://github.com/thor314/ccs-hack): a hack implementation of CCS generic implementation
+- [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
 
 ### Code Explorations
 
