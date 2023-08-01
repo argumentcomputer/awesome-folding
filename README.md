@@ -156,6 +156,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Video Lectures*: [Zero-knowledge proof composition and recursion](https://www.youtube.com/watch?v=6mcCyQXm8vo)
 - *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
 - *Talk*: [ZK Study Club: Protostar with Binyi Chen](https://www.youtube.com/watch?v=wtxVYiZh7zc)
+- *Talk*: [(Super)Nova (Scotia): Unpacking Nova](https://www.youtube.com/watch?v=N6RW_YhLMNw)
 
 #### Zuzalu talks
 
