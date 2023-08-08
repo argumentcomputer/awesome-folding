@@ -95,6 +95,12 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
     The paper exploits a soundness bug in the original implementation (since patched) and produces a
     convincing proof of $2^{75}$ rounds of the Minroot VDF in 1.46 seconds. A new optimized and secure
     system is introduced together with a formal security proof.
+- [CycleFold: Folding-scheme-based recursive arguments over a cycle of elliptic curves](https://eprint.iacr.org/2023/1192)
+   - CycleFold uses the second curve in the cycle to merely represent a single
+   scalar multiplication ( 1,000--1,500 multiplication gates). CycleFold then
+   folds invocations of that tiny circuit on the first curve in the cycle. This
+   is nearly an order of magnitude improvement over the prior state-of-the-art
+   in terms of circuit sizes on the second curve.
 
 ### Nova Extensions (without high-degree gates)
 
