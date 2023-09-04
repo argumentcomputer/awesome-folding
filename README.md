@@ -118,6 +118,8 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   This paper introduces customizable constraint system (CCS), a generalization of R1CS that can simultaneously capture R1CS, Plonkish, and AIR without overheads.
 - [HyperNova: Recursive arguments for customizable constraint systems](https://eprint.iacr.org/2023/573)
   This paper introduces HyperNova, a recursive argument for proving incremental computations whose steps are expressed with CCS. The prover’s cost at each step is dominated by a single multi-scalar multiplication (MSM) of size equal to the number of variables in the constraint system, which is optimal when using an MSM-based commitment scheme.
+- [Proof-Carrying Data from Multi-floding Schemes](https://eprint.iacr.org/2023/1282)
+  This paper generalizes HyperNova to support folding multiple instances of CCS and multiple instance of LCCS into 1 LCCS, in contrast to the original work which folds 1 CCS and 1 LCCS into 1 LCCS.
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620)
   We provide a generic, efficient accumulation scheme for any (2k-1)-move special-sound protocol with a verifier that checks l degree-d equations. The accumulation verifier only performs k+2 elliptic curve multiplications and k+d+O(1) field/hash operations.
     - [Presentation](https://www.youtube.com/watch?v=tt00TLFJPpc)
