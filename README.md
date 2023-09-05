@@ -23,6 +23,7 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   * [Podcast episodes](#podcast-episodes)
   * [Talks & Lectures](#talks--lectures)
     + [Zuzalu talks](#zuzalu-talks)
+    * [Articles](#articles)
   * [Forums](#forums)
 - [Applications](#applications)
 
@@ -137,14 +138,19 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [nova-study](https://github.com/arnaucube/nova-study/): Implementation of Nova using arkworks-rs just forlearning purposes.
 - [supernova](https://github.com/jules/supernova): Experimental implementation of the SuperNova protocol
 - [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc): Experimental implementation of HyperNova
+- [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175): Experimental implementation of HyperNova in reference implementation
 - [ccs-hack](https://github.com/thor314/ccs-hack): a hack implementation of CCS generic implementation
 - [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
+- [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11): Experimental implementation of ParaNova
+- [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
+
 
 ### Code Explorations
 
 Code implementations and explorations related to the Nova proof system, including benchmarks, specifications, and experimental versions.
 
 - [Nova benchmarks](https://hackmd.io/@oskarth/rJmSaOtZ2)
+- [Nova benchmarks (native SHA256)](https://hackmd.io/u3qM9s_YR1emHZSg3jteQA)
 - [Nova wishlist and next steps](https://hackmd.io/@oskarth/SJRm4zYbn)
 - [Nova-based ZKVM spec](https://hackmd.io/@CPerezz/ByTmhi6yn)
 - [Origami-benchmarks](https://hackmd.io/vn7hWnjCQXCEpQvPDflL8g)
@@ -172,6 +178,11 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [SuperNova and Parallelizing Nova (Carlos Perez, Nalin Bardaj)](https://zuzalu.streameth.org/session/169)
 - *Talk*: [Nova Track Ad-Hoc Session: ZK Week Research Projects Discussion (Barry Whitehat, Justin Drake, Nalin Bardaj)](https://zuzalu.streameth.org/session/432)
 - *Talk*: [Ad-Hoc Session on Goblin PLONK + Nova (Zachary Williamson)](https://zuzalu.streameth.org/session/451)
+
+#### Articles
+
+- *Article*: [Parallelizing Nova - Visualizations and Mental Models behind Paranova](https://zkresear.ch/t/parallelizing-nova-visualizations-and-mental-models-behind-paranova/198)
+- *Article*: [Towards a Nova-based ZK-VM](https://zkresear.ch/t/towards-a-nova-based-zk-vm/105)
 
 ### Forums
 
