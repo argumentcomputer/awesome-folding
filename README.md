@@ -23,7 +23,7 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   * [Podcast episodes](#podcast-episodes)
   * [Talks & Lectures](#talks--lectures)
     + [Zuzalu talks](#zuzalu-talks)
-    * [Articles](#articles)
+    + [Articles](#articles)
   * [Forums](#forums)
 - [Applications](#applications)
 
@@ -143,7 +143,6 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
 - [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11): Experimental implementation of ParaNova
 - [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
-
 
 ### Code Explorations
 
