@@ -170,6 +170,8 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
 - *Talk*: [ZK Study Club: Protostar with Binyi Chen](https://www.youtube.com/watch?v=wtxVYiZh7zc)
 - *Talk*: [(Super)Nova (Scotia): Unpacking Nova](https://www.youtube.com/watch?v=N6RW_YhLMNw)
+- *Talk*: [SBC'23 Session 4: Efficient SNARKs From Folding Schemes](https://www.youtube.com/watch?v=0C3HhWNCpls)
+- *Talk*: [ZKP MOOC Lecture 10: Recursive SNARKs](https://www.youtube.com/watch?v=0LW-qeVe6QI)
 
 #### Zuzalu talks
 
