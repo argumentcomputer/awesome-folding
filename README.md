@@ -108,7 +108,7 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
 
 Extensions to the Nova proof system that explore PCS in terms of linear codes, folding, and other concepts.
 
-- [Linear algebra and zero-knowledge](https://www.youtube.com/watch?v=dSsUfKgZlkk)
+- [Linear algebra and zero-knowledge](https://www.youtube.com/watch?v=dSsUfKgZlkk) ([paper](https://angeris.github.io/papers/zk-linalg.pdf))
 - [Origami – A Folding Scheme for Halo2 Lookups](https://hackmd.io/@aardvark/rkHqa3NZ2)
 - [Folding for Arbitrary Polynomial Custom Gates and Lookups](https://hackmd.io/vn7hWnjCQXCEpQvPDflL8g)
 - [Folding endgame](https://zkresear.ch/t/folding-endgame/106)
