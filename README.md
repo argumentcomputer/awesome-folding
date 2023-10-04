@@ -126,6 +126,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
     - [Presentation](https://www.youtube.com/watch?v=tt00TLFJPpc)
 - [ProtoGalaxy: Efficient ProtoStar-style folding of multiple instances](https://eprint.iacr.org/2023/1106)
   Building on ideas from  ProtoStar, we construct a folding scheme where the recursive verifier's "marginal work", beyond linearly combining witness commitments, consists only of a logarithmic number of field operations and a constant number of hashes. Moreover, our folding scheme performs well when *folding multiple instances at one step*.
+    - [Presentation](https://www.youtube.com/watch?v=SpkTvRia1EA)
 
 ## Code (software repositories)
 
