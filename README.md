@@ -156,6 +156,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - [Nova wishlist and next steps](https://hackmd.io/@oskarth/SJRm4zYbn)
 - [Nova-based ZKVM spec](https://hackmd.io/@CPerezz/ByTmhi6yn)
 - [Origami-benchmarks](https://hackmd.io/vn7hWnjCQXCEpQvPDflL8g)
+- [Notes on ProtoGalaxy](https://arnaucube.com/blog/protogalaxy.html)
 
 ## Other resources (podcasts, etc)
 
