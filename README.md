@@ -121,7 +121,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   This paper introduces HyperNova, a recursive argument for proving incremental computations whose steps are expressed with CCS. The prover’s cost at each step is dominated by a single multi-scalar multiplication (MSM) of size equal to the number of variables in the constraint system, which is optimal when using an MSM-based commitment scheme.
 - [KiloNova: Non-Uniform PCD with Zero-Knowledge Property from Generic Folding Schemes](https://eprint.iacr.org/2023/1579)
   This paper build a non-uniform ZK-PCD scheme (KiloNova) from the generic folding scheme and improve its performance with some optimization techniques, such as circuit aggregation and decoupling.
-- [Proof-Carrying Data from Multi-floding Schemes](https://eprint.iacr.org/2023/1282)
+- [Proof-Carrying Data from Multi-folding Schemes](https://eprint.iacr.org/2023/1282)
   This paper generalizes HyperNova to support folding multiple instances of CCS and multiple instance of LCCS into 1 LCCS, in contrast to the original work which folds 1 CCS and 1 LCCS into 1 LCCS.
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620)
   We provide a generic, efficient accumulation scheme for any (2k-1)-move special-sound protocol with a verifier that checks l degree-d equations. The accumulation verifier only performs k+2 elliptic curve multiplications and k+d+O(1) field/hash operations.
