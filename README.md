@@ -190,6 +190,7 @@ Code implementations and explorations related to the Nova proof system, includin
 
 - *Article*: [Parallelizing Nova - Visualizations and Mental Models behind Paranova](https://zkresear.ch/t/parallelizing-nova-visualizations-and-mental-models-behind-paranova/198)
 - *Article*: [Towards a Nova-based ZK-VM](https://zkresear.ch/t/towards-a-nova-based-zk-vm/105)
+- *Article*: [Nova: from IVC to general PCD for zkMapReduce](https://lagrangelabs.notion.site/Nova-from-IVC-to-general-PCD-for-zkMapReduce-d04afec2d70c47db9dfb67e84d0d796e?pvs=4)
 
 ### Forums
 
