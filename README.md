@@ -146,6 +146,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
 - [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11): Experimental implementation of ParaNova
 - [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
+- [snarkify/sirius](https://github.com/snarkify/sirius): open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 
 ### Code Explorations
 
