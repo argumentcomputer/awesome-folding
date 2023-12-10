@@ -103,6 +103,9 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
    folds invocations of that tiny circuit on the first curve in the cycle. This
    is nearly an order of magnitude improvement over the prior state-of-the-art
    in terms of circuit sizes on the second curve.
+- [Reverie: an end-to-end accumulation scheme from Cyclefold](https://eprint.iacr.org/2023/1888)
+    - _"In this technical note, we propose an informal notion of an end-to-end IVC scheme, which means that the amount of data that the prover needs exchange with the previous prover to continue the computation is small. 
+    We explore the existing design space from this point of view, and suggest an approach to constructing such a scheme by combining the PlonK proof system with the recent Cyclefold construction."_
 
 ### Nova Extensions (without high-degree gates)
 
