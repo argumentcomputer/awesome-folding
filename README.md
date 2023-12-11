@@ -104,7 +104,7 @@ Classic works on the Nova proof system, including seminal papers and accompanyin
    is nearly an order of magnitude improvement over the prior state-of-the-art
    in terms of circuit sizes on the second curve.
 - [Reverie: an end-to-end accumulation scheme from Cyclefold](https://eprint.iacr.org/2023/1888)
-    - _"In this technical note, we propose an informal notion of an end-to-end IVC scheme, which means that the amount of data that the prover needs exchange with the previous prover to continue the computation is small. 
+    - _"In this technical note, we propose an informal notion of an end-to-end IVC scheme, which means that the amount of data that the prover needs exchange with the previous prover to continue the computation is small.
     We explore the existing design space from this point of view, and suggest an approach to constructing such a scheme by combining the PlonK proof system with the recent Cyclefold construction."_
 
 ### Nova Extensions (without high-degree gates)
@@ -130,7 +130,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   We provide a generic, efficient accumulation scheme for any (2k-1)-move special-sound protocol with a verifier that checks l degree-d equations. The accumulation verifier only performs k+2 elliptic curve multiplications and k+d+O(1) field/hash operations.
     - [Presentation](https://www.youtube.com/watch?v=tt00TLFJPpc)
 - [ProtoGalaxy: Efficient ProtoStar-style folding of multiple instances](https://eprint.iacr.org/2023/1106)
-  Building on ideas from  ProtoStar, we construct a folding scheme where the recursive verifier's "marginal work", beyond linearly combining witness commitments, consists only of a logarithmic number of field operations and a constant number of hashes. Moreover, our folding scheme performs well when *folding multiple instances at one step*.
+  Building on ideas from  ProtoStar, we construct a folding scheme where the recursive verifier's "marginal work", beyond linearly combining witness commitments, consists only of a logarithmic number of field operations and a constant number of hashes. Moreover, our folding scheme performs well when _folding multiple instances at one step_.
     - [Presentation](https://www.youtube.com/watch?v=SpkTvRia1EA)
 
 ## Code (software repositories)
@@ -167,40 +167,40 @@ Code implementations and explorations related to the Nova proof system, includin
 
 ### Podcast episodes
 
-- *Podcast*: [ZK-Podcast Episode 277: Nova and beyond with Srinath Setty](https://www.youtube.com/watch?v=hRza_k8i16s)
-- *Podcast*: [ZK-Podcast Episode 280: ProtoStar with Benedikt Bünz and Binyi Chen](https://zeroknowledge.fm/280-2/)
-- *Podcast*: [Zk-Podcast Episode 281: Exploring Lurk: a new Language for Recursive zk-SNARKs with Chhi'mèd Künzang and François Garillot](https://zeroknowledge.fm/281-2/)
+- _Podcast_: [ZK-Podcast Episode 277: Nova and beyond with Srinath Setty](https://www.youtube.com/watch?v=hRza_k8i16s)
+- _Podcast_: [ZK-Podcast Episode 280: ProtoStar with Benedikt Bünz and Binyi Chen](https://zeroknowledge.fm/280-2/)
+- _Podcast_: [Zk-Podcast Episode 281: Exploring Lurk: a new Language for Recursive zk-SNARKs with Chhi'mèd Künzang and François Garillot](https://zeroknowledge.fm/281-2/)
 
 ### Talks & Lectures
 
-- *Talk*: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
-- *Talk*: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
-- *Talk*: [Advances in the Efficiency of Succinct Proofs (Ying Tong Lai)](https://www.youtube.com/watch?v=KSGE6n66W1M)
-- *Talk*: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
-- *Talk*: [ZK Study Club: Protostar with Binyi Chen](https://www.youtube.com/watch?v=wtxVYiZh7zc)
-- *Talk*: [(Super)Nova (Scotia): Unpacking Nova](https://www.youtube.com/watch?v=N6RW_YhLMNw)
-- *Talk*: [SBC'23 Session 4: Efficient SNARKs From Folding Schemes](https://www.youtube.com/watch?v=0C3HhWNCpls)
-- *Talk*: [ZKP MOOC Lecture 10: Recursive SNARKs](https://www.youtube.com/watch?v=0LW-qeVe6QI)
-- *Talk*: [ZK Summit 10: "Recent advances in folding schemes" (Liam Eager)](https://www.youtube.com/watch?v=mqBkhZGNkis)
-- *Talk*: [ZK Summit 10: "Visual ProtoStar" (Adrian Hamelink)](https://www.youtube.com/watch?v=Arg63wKiS5g)
+- _Talk_: [ZK Study Club: SuperNova with Srinath Setty](https://www.youtube.com/watch?v=ilrvqajkrYY)
+- _Talk_: [CCS & HyperNova with Srinath - Folding Schemes FTW](https://youtu.be/pDFmANwwIoY)
+- _Talk_: [Advances in the Efficiency of Succinct Proofs (Ying Tong Lai)](https://www.youtube.com/watch?v=KSGE6n66W1M)
+- _Talk_: [Folding Circom circuits: A ZKML case study (Cathie So)](https://www.youtube.com/watch?v=jb6HDEtY4CI)
+- _Talk_: [ZK Study Club: Protostar with Binyi Chen](https://www.youtube.com/watch?v=wtxVYiZh7zc)
+- _Talk_: [(Super)Nova (Scotia): Unpacking Nova](https://www.youtube.com/watch?v=N6RW_YhLMNw)
+- _Talk_: [SBC'23 Session 4: Efficient SNARKs From Folding Schemes](https://www.youtube.com/watch?v=0C3HhWNCpls)
+- _Talk_: [ZKP MOOC Lecture 10: Recursive SNARKs](https://www.youtube.com/watch?v=0LW-qeVe6QI)
+- _Talk_: [ZK Summit 10: "Recent advances in folding schemes" (Liam Eager)](https://www.youtube.com/watch?v=mqBkhZGNkis)
+- _Talk_: [ZK Summit 10: "Visual ProtoStar" (Adrian Hamelink)](https://www.youtube.com/watch?v=Arg63wKiS5g)
 
 #### Zuzalu talks
 
-- *Talk*: [Folding Scheme Math Buildding Blocks (Ying Tong Lai)](https://zuzalu.streameth.org/session/152)
-- *Talk*: [SuperNova and Parallelizing Nova (Carlos Perez, Nalin Bardaj)](https://zuzalu.streameth.org/session/169)
-- *Talk*: [Nova Track Ad-Hoc Session: ZK Week Research Projects Discussion (Barry Whitehat, Justin Drake, Nalin Bardaj)](https://zuzalu.streameth.org/session/432)
-- *Talk*: [Ad-Hoc Session on Goblin PLONK + Nova (Zachary Williamson)](https://zuzalu.streameth.org/session/451)
+- _Talk_: [Folding Scheme Math Buildding Blocks (Ying Tong Lai)](https://zuzalu.streameth.org/session/152)
+- _Talk_: [SuperNova and Parallelizing Nova (Carlos Perez, Nalin Bardaj)](https://zuzalu.streameth.org/session/169)
+- _Talk_: [Nova Track Ad-Hoc Session: ZK Week Research Projects Discussion (Barry Whitehat, Justin Drake, Nalin Bardaj)](https://zuzalu.streameth.org/session/432)
+- _Talk_: [Ad-Hoc Session on Goblin PLONK + Nova (Zachary Williamson)](https://zuzalu.streameth.org/session/451)
 
 #### Articles
 
-- *Article*: [Parallelizing Nova - Visualizations and Mental Models behind Paranova](https://zkresear.ch/t/parallelizing-nova-visualizations-and-mental-models-behind-paranova/198)
-- *Article*: [Towards a Nova-based ZK-VM](https://zkresear.ch/t/towards-a-nova-based-zk-vm/105)
-- *Article*: [Nova: from IVC to general PCD for zkMapReduce](https://lagrangelabs.notion.site/Nova-from-IVC-to-general-PCD-for-zkMapReduce-d04afec2d70c47db9dfb67e84d0d796e?pvs=4)
+- _Article_: [Parallelizing Nova - Visualizations and Mental Models behind Paranova](https://zkresear.ch/t/parallelizing-nova-visualizations-and-mental-models-behind-paranova/198)
+- _Article_: [Towards a Nova-based ZK-VM](https://zkresear.ch/t/towards-a-nova-based-zk-vm/105)
+- _Article_: [Nova: from IVC to general PCD for zkMapReduce](https://lagrangelabs.notion.site/Nova-from-IVC-to-general-PCD-for-zkMapReduce-d04afec2d70c47db9dfb67e84d0d796e?pvs=4)
 
 ### Forums
 
-- *Forum*: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
-- *Forum*: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
+- _Forum_: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
+- _Forum_: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
 
 ## Applications
 
@@ -209,7 +209,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - [Lurk](https://github.com/lurk-lang/lurk-rs)
     - Lurk is a Turing-complete programming language for recursive zk-SNARKs. It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
     - [Youtube account](https://www.youtube.com/@lurklab4264/featured)
-    - *Talks*: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
+    - _Talks_: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
 - [Nova-SHA256](https://github.com/avras/nova-sha256)
     - This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
     - The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) library
