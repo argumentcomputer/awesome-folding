@@ -138,6 +138,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 ### Reference implementations
 
 - [microsoft/nova](https://github.com/microsoft/Nova)
+- [lurk-lab/arecibo](https://github.com/lurk-lab/arecibo): This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
@@ -150,6 +151,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11): Experimental implementation of ParaNova
 - [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
 - [snarkify/sirius](https://github.com/snarkify/sirius): open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
+- [PayneJoe/PNova](https://github.com/PayneJoe/PNova): Our target is to implement a plonkish versioned NOVA, folding multiple Customer Gate/Lookup instances into one respectively.
 
 ### Code Explorations
 
