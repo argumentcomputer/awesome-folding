@@ -217,3 +217,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - [Nova-SHA256](https://github.com/avras/nova-sha256)
     - This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
     - The implementation utilizes SHA-256 from the [bellperson](https://github.com/filecoin-project/bellperson) library
+- [Zator: Verified inference of a 512-layer neural network using recursive SNARKs](https://github.com/lyronctk/zator)
+- [Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs](https://eprint.iacr.org/2023/1886)
+    - A system for generating zero-knowledge proofs that a committed document matches or does not match a regular expression.
+    - [Github repo](https://github.com/eniac/Reef)
