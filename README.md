@@ -15,6 +15,7 @@ A curated list of awesome resources related to zero-knowledge folding schemes. F
   * [Classic Nova](#classic-nova)
   * [Nova Extensions (without high-degree gates)](#nova-extensions-without-high-degree-gates)
   * [HyperNova / ProtoStar : The next generation (with high-degree gates)](#hypernova--protostar--the-next-generation-with-high-degree-gates)
+  * [Deep Space Nine (New commitment schemes, new lookup & proof arguments)](#deep-space-nine-new-commitment-schemes-new-lookup--proof-arguments)
 - [Code (software repositories)](#code-software-repositories)
   * [Reference implementations](#reference-implementations)
   * [Teaching / experimental implementations](#teaching--experimental-implementations)
@@ -134,6 +135,13 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   Building on ideas from  ProtoStar, we construct a folding scheme where the recursive verifier's "marginal work", beyond linearly combining witness commitments, consists only of a logarithmic number of field operations and a constant number of hashes. Moreover, our folding scheme performs well when _folding multiple instances at one step_.
     - [Presentation](https://www.youtube.com/watch?v=SpkTvRia1EA)
 
+### Deep Space Nine (New commitment schemes, new lookup & proof arguments)
+
+- [LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems](https://eprint.iacr.org/2024/257)
+  The first lattice-based folding scheme that leads to post-quantum secure IVC/PCD/SNARKs. Surprisingly, we estimate the performance to be competitive with top pre-quantum folding schemes.
+- [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](https://eprint.iacr.org/2024/325)
+  We break through the "witness barrier" and go beyond the "lookup singularity". We show how to do reads AND writes to memory by committing to just 4 small elements. We also show how to avoid committing to intermediate witnesses.
+
 ## Code (software repositories)
 
 ### Reference implementations
@@ -200,6 +208,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - _Article_: [Towards a Nova-based ZK-VM](https://zkresear.ch/t/towards-a-nova-based-zk-vm/105)
 - _Article_: [Nova: from IVC to general PCD for zkMapReduce](https://lagrangelabs.notion.site/Nova-from-IVC-to-general-PCD-for-zkMapReduce-d04afec2d70c47db9dfb67e84d0d796e?pvs=4)
 - _Article_: [An incomplete guide to Folding: Nova, Sangria, SuperNova, HyperNova, Protostar](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
+- _Article_: [Diagonal folding: Folding protocols with a large amount of rounds using 2-round Protostar](https://zkresear.ch/t/diagonal-folding-folding-protocols-with-a-large-amount-of-rounds-using-2-round-protostar/214)
 
 ### Forums
 
