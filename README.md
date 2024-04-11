@@ -126,6 +126,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   This paper introduces HyperNova, a recursive argument for proving incremental computations whose steps are expressed with CCS. The prover’s cost at each step is dominated by a single multi-scalar multiplication (MSM) of size equal to the number of variables in the constraint system, which is optimal when using an MSM-based commitment scheme.
 - [KiloNova: Non-Uniform PCD with Zero-Knowledge Property from Generic Folding Schemes](https://eprint.iacr.org/2023/1579)
   This paper build a non-uniform ZK-PCD scheme (KiloNova) from the generic folding scheme and improve its performance with some optimization techniques, such as circuit aggregation and decoupling.
+    - [Presentation](https://www.youtube.com/watch?v=FDE8WD1QA_Y)
 - [Proof-Carrying Data from Multi-folding Schemes](https://eprint.iacr.org/2023/1282)
   This paper generalizes HyperNova to support folding multiple instances of CCS and multiple instance of LCCS into 1 LCCS, in contrast to the original work which folds 1 CCS and 1 LCCS into 1 LCCS.
 - [ProtoStar: Generic Efficient Accumulation/Folding for Special Sound Protocols](https://eprint.iacr.org/2023/620)
@@ -141,6 +142,10 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   The first lattice-based folding scheme that leads to post-quantum secure IVC/PCD/SNARKs. Surprisingly, we estimate the performance to be competitive with top pre-quantum folding schemes.
 - [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](https://eprint.iacr.org/2024/325)
   We break through the "witness barrier" and go beyond the "lookup singularity". We show how to do reads AND writes to memory by committing to just 4 small elements. We also show how to avoid committing to intermediate witnesses.
+- [Mangrove: A Scalable Framework for Folding-based SNARKs](https://eprint.iacr.org/2024/416)
+  We develop a new "uniformizing" compiler for NP statements that converts any poly-time computation to a sequence of identical simple steps
+- [Accumulation without Homomorphism](https://eprint.iacr.org/2024/474)
+  We construct an accumulation scheme from *non-homomorphic* vector commitments which can be realized from solely symmetric-key assumptions (e.g. Merkle trees).
 
 ## Code (software repositories)
 
