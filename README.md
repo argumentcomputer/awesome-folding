@@ -40,7 +40,7 @@ A gentle introduction to Plonk-like arithmetization, lookup arguments and the bi
 
 - [From AIRs to RAPs](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 - [A Brief history of lookup arguments](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
-- [Multiset checks in PLONK and Plookup](https://hackmd.io/@arielg/ByFgSDA7D)
+- [Multiset checks in PLONK and Plookup](https://hackmd.io/@oL_Ko9OQSfeZhjlLHm2XDw/ByFgSDA7D)
 
 #### Spartan
 
