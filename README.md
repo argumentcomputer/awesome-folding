@@ -141,6 +141,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems](https://eprint.iacr.org/2024/257)
   The first lattice-based folding scheme that leads to post-quantum secure IVC/PCD/SNARKs. Surprisingly, we estimate the performance to be competitive with top pre-quantum folding schemes.
     - [Presentation](https://www.youtube.com/watch?v=DVHfukc35xk)
+    - [zkStudyClub presentation](https://www.youtube.com/watch?v=-k8s7vVUx6s)
 - [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](https://eprint.iacr.org/2024/325)
   We break through the "witness barrier" and go beyond the "lookup singularity". We show how to do reads AND writes to memory by committing to just 4 small elements. We also show how to avoid committing to intermediate witnesses.
 - [Mangrove: A Scalable Framework for Folding-based SNARKs](https://eprint.iacr.org/2024/416)
