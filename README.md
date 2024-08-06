@@ -154,7 +154,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 ### Reference implementations
 
 - [microsoft/nova](https://github.com/microsoft/Nova)
-- [lurk-lab/arecibo](https://github.com/lurk-lab/arecibo): This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
+- [argumentcomputer/arecibo](https://github.com/argumentcomputer/arecibo): This repository is a fork of the original. It's an incubator for experimenting with more advanced variants of the original software and working out the kinks in them
 
 ### Teaching / experimental implementations
 
@@ -220,15 +220,15 @@ Code implementations and explorations related to the Nova proof system, includin
 ### Forums
 
 - _Forum_: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
-- _Forum_: [Lurk Lab](https://lurk-lab.com/) [Zulip Server](https://zulip.lurk-lab.com/)
+- _Forum_: [Argument](https://argument.xyz/) [Zulip Server](https://zulip.argument.xyz/)
 
 ## Applications
 
 - [Nova-Scotia](https://github.com/nalinbhardwaj/Nova-Scotia)
     - This repository provides necessary middleware to take generated output of the Circom compiler (R1CS constraints and generated witnesses) and use them with Nova as a prover.
-- [Lurk](https://github.com/lurk-lang/lurk-rs)
+- [Lurk](https://github.com/argumentcomputer/lurk-rs)
     - Lurk is a Turing-complete programming language for recursive zk-SNARKs. It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
-    - [Youtube account](https://www.youtube.com/@lurklab4264/featured)
+    - [Youtube account](https://www.youtube.com/@argumentcomputer/featured)
     - _Talks_: [ZK Summit 9](https://www.youtube.com/watch?v=iLtv4yauW3s), [ZKProof workshop](https://www.youtube.com/watch?v=wKqiIoOeogo)
 - [Nova-SHA256](https://github.com/avras/nova-sha256)
     - This repository provides a SHA-256 implementation utilizing Nova to repeatedly apply the SHA-256 compression function at each step.
