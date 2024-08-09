@@ -158,14 +158,14 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 
 ### Teaching / experimental implementations
 
-- [nova-study](https://github.com/arnaucube/nova-study/): Implementation of Nova using arkworks-rs just forlearning purposes.
+- [nova-study](https://github.com/arnaucube/nova-study/): Implementation of Nova using arkworks-rs just for learning purposes.
 - [supernova](https://github.com/jules/supernova): Experimental implementation of the SuperNova protocol
 - [multifolding-poc](https://github.com/privacy-scaling-explorations/multifolding-poc): Experimental implementation of HyperNova
 - [microsoft/nova hypernova experimental PR](https://github.com/microsoft/Nova/pull/175): Experimental implementation of HyperNova in reference implementation
 - [ccs-hack](https://github.com/thor314/ccs-hack): a hack implementation of CCS generic implementation
 - [protogalaxy-poc](https://github.com/arnaucube/protogalaxy-poc): Proof of concept implementation of ProtoGalaxy
 - [pse/nova experimental ParaNova PR](https://github.com/privacy-scaling-explorations/Nova/pull/11): Experimental implementation of ParaNova
-- [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
+- [pse/sonobe](https://github.com/privacy-scaling-explorations/sonobe): a modular library to fold arithmetic circuit instances in an Incremental Verifiable computation (IVC) style developed by 0xPARC and PSE.
 - [snarkify/sirius](https://github.com/snarkify/sirius): open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 - [PayneJoe/PNova](https://github.com/PayneJoe/PNova): Our target is to implement a plonkish versioned NOVA, folding multiple Customer Gate/Lookup instances into one respectively.
 
