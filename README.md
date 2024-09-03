@@ -216,7 +216,8 @@ Code implementations and explorations related to the Nova proof system, includin
 - _Article_: [Nova: from IVC to general PCD for zkMapReduce](https://lagrangelabs.notion.site/Nova-from-IVC-to-general-PCD-for-zkMapReduce-d04afec2d70c47db9dfb67e84d0d796e?pvs=4)
 - _Article_: [An incomplete guide to Folding: Nova, Sangria, SuperNova, HyperNova, Protostar](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)
 - _Article_: [Diagonal folding: Folding protocols with a large amount of rounds using 2-round Protostar](https://zkresear.ch/t/diagonal-folding-folding-protocols-with-a-large-amount-of-rounds-using-2-round-protostar/214)
-
+- _Article_: [SuperSpartan by Hand](https://anoma.net/blog/superspartan-by-hand)
+- _Article_: [HyperNova By Hand](https://anoma.net/blog/hypernova-by-hand)
 ### Forums
 
 - _Forum_: [Privacy Scaling Explorations](https://appliedzkp.org/#top) [Discord Server](https://discord.gg/sF5CT5rzrR)
