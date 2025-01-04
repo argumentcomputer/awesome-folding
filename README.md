@@ -148,6 +148,8 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
   We develop a new "uniformizing" compiler for NP statements that converts any poly-time computation to a sequence of identical simple steps
 - [Accumulation without Homomorphism](https://eprint.iacr.org/2024/474)
   We construct an accumulation scheme from *non-homomorphic* vector commitments which can be realized from solely symmetric-key assumptions (e.g. Merkle trees).
+- [Lova: Lattice-Based Folding Scheme from Unstructured Lattices](https://eprint.iacr.org/2024/1964)
+  Lova is an adaptation of Nova to lattices. It is a post-quantum folding scheme that follows decompose-and-fold approach. A new exact Euclidean norm proof is proposed.
 
 ## Code (software repositories)
 
