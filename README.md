@@ -168,6 +168,7 @@ Extensions to the Nova proof system that explore PCS in terms of linear codes, f
 - [pse/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes/): Experimental arkworks library for accommodating different folding schemes
 - [snarkify/sirius](https://github.com/snarkify/sirius): open-source constraint-system-agnostic folding framework for Incrementally Verifiable Computation
 - [PayneJoe/PNova](https://github.com/PayneJoe/PNova): Our target is to implement a plonkish versioned NOVA, folding multiple Customer Gate/Lookup instances into one respectively.
+- [NethermindEth/latticefold](https://github.com/NethermindEth/latticefold): Experimental implementation of the LatticeFold protocol.
 
 ### Code Explorations
 
